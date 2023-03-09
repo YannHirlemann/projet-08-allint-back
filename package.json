@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "joi": "^17.8.3",
+    "jsonwebtoken": "^9.0.0",
+    "nodemon": "^2.0.20",
+    "pg": "^8.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  },
+  "name": "back",
+  "description": "Ce repository est le dossier consacré à la partie BACKEND du projet. Il permet le stockage, partage mais également versionning du code source de l'application. En plus du code, vous aurez également accès à la documentation, aux ressources et au détails de la partie BACKEND.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jest",
+    "dev": "npx nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-Maya/projet-08-allint-back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-Maya/projet-08-allint-back/issues"
+  },
+  "homepage": "https://github.com/O-clock-Maya/projet-08-allint-back#readme"
+}

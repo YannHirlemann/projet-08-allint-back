@@ -1,0 +1,6 @@
+%syntax-version=1.0.0
+%project=allint
+
+init 2023-02-27T15:47:26Z geoffroy Poupart <geoffroypoupart@gmail.com> # création des tables
+
+populate 2023-02-28T09:42:31Z geoffroy Poupart <geoffroypoupart@gmail.com> # creation seeding
